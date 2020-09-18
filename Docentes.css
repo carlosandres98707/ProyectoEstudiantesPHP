@@ -1,0 +1,29 @@
+.a{
+  float: left;
+  width: 50%;
+  height: 537px;
+  background-image: url("imagenes/prof.jpg");
+
+}
+.b{
+  float: right;
+  width: 50%;
+  height: 100%;
+}
+#h{
+  color: gray;
+  font-size: 50px;
+
+}
+#hs{
+  font-size: 50px;
+}
+#im{
+  transform: translateY(100px);
+}
+#but{
+  font-size: 20px;
+}
+label{
+  font-size: 20px;
+}

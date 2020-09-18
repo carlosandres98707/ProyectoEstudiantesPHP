@@ -1,0 +1,29 @@
+.a{
+  float: left;
+  width: 50%;
+  height: 600px;
+  background-image: url("imagenes/estud.jpg");
+
+}
+.b{
+  float: right;
+  width: 50%;
+  height: 100%;
+}
+#h{
+  color: white;
+  font-size: 50px;
+
+}
+#hs{
+  font-size: 50px;
+}
+#im{
+  transform: translateY(100px);
+}
+#but{
+  font-size: 20px;
+}
+label{
+  font-size: 20px;
+}
